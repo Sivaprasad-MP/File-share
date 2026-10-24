@@ -1,0 +1,6 @@
+# Track only the file-sharing application and its documentation.
+*
+!/.gitignore
+!/fileshare.py
+!/Start File Share.bat
+!/README.txt
